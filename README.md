@@ -21,3 +21,4 @@ Ollama - llama3.2:latest
 
 ## Safety
 This chatbot provides educational health information only. It does not diagnose diseases or prescribe medicines. Consult a qualified healthcare professional for medical advice.
+Project maintained by Abinaya.
